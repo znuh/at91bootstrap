@@ -1,0 +1,2 @@
+config CONFIG_BOARDNAME
+	default "sama5d4_gnublin2" if CONFIG_SAMA5D4_GNUBLIN2

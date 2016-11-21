@@ -45,4 +45,8 @@
 #include "sama5d3_acqua.h"
 #endif
 
+#ifdef CONFIG_SAMA5D4_GNUBLIN2
+#include "sama5d4_gnublin2.h"
+#endif
+
 #endif
